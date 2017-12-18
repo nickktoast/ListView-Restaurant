@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasicsWork</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="restaurant_locator">Restaurant Locator</string>
+</resources>
